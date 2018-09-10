@@ -10,7 +10,9 @@ import datetime
 import traceback
 import urllib.request, json
 import urllib
+
 #abc gewoon een voorbeeld om te zien
+
 cp = '*' #kies zelf een commandprefix
 bot = commands.Bot(command_prefix=cp)
 print ('Bot is aan het opstarten...')
